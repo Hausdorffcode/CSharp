@@ -1,0 +1,9 @@
+C:\Users\huangqiming\Documents\GitHub\CSharp\paikuaiyouxi\paikuaiyouxi\bin\Debug\paikuaiyouxi.exe.config
+C:\Users\huangqiming\Documents\GitHub\CSharp\paikuaiyouxi\paikuaiyouxi\bin\Debug\paikuaiyouxi.exe
+C:\Users\huangqiming\Documents\GitHub\CSharp\paikuaiyouxi\paikuaiyouxi\bin\Debug\paikuaiyouxi.pdb
+C:\Users\huangqiming\Documents\GitHub\CSharp\paikuaiyouxi\paikuaiyouxi\obj\Debug\paikuaiyouxi.csprojResolveAssemblyReference.cache
+C:\Users\huangqiming\Documents\GitHub\CSharp\paikuaiyouxi\paikuaiyouxi\obj\Debug\paikuaiyouxi.Form1.resources
+C:\Users\huangqiming\Documents\GitHub\CSharp\paikuaiyouxi\paikuaiyouxi\obj\Debug\paikuaiyouxi.Properties.Resources.resources
+C:\Users\huangqiming\Documents\GitHub\CSharp\paikuaiyouxi\paikuaiyouxi\obj\Debug\paikuaiyouxi.csproj.GenerateResource.Cache
+C:\Users\huangqiming\Documents\GitHub\CSharp\paikuaiyouxi\paikuaiyouxi\obj\Debug\paikuaiyouxi.exe
+C:\Users\huangqiming\Documents\GitHub\CSharp\paikuaiyouxi\paikuaiyouxi\obj\Debug\paikuaiyouxi.pdb
