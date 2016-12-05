@@ -6,11 +6,11 @@ using System.Threading.Tasks;
 
 namespace Bank
 {
-    class Account
+    public class Account
     {
-        decimal money;
-        string id;
-        string pwd;
+        protected decimal money; //将字段设为protected
+        protected string id;
+        protected string pwd;
 
         public Account(string id, string pwd, decimal money)
         {
@@ -19,34 +19,22 @@ namespace Bank
             this.money = money;
         }
 
-        public string getId()
+        public string Id  //使用属性
         {
-            return id;
+            get { return this.id; }
+            set { this.id = value; }
         }
 
-        public void setId(string id)
+        public decimal Money
         {
-            this.id = id;
+            get { return this.money; }
+            set { this.money = value; }
         }
 
-        public decimal getMoney()
+        public string Pwd
         {
-            return money;
-        }
-
-        public void setMoney(decimal money)
-        {
-            this.money = money;
-        }
-
-        public string getpwd()
-        {
-            return pwd;
-        }
-
-        public void setpwd(string pwd)
-        {
-            this.pwd = pwd;
+            get { return this.pwd; }
+            set { this.pwd = value; }
         }
 
         public bool isMatch(string id, string pwd)
@@ -56,13 +44,18 @@ namespace Bank
 
         public bool saveMoney(decimal money)
         {
+            Random random = new Random();
             if (money < 0)
                 return false;
+            if(random.Next(100) < 100)
+            {
+                throw new BadCashException("Bad Cash"); //抛出异常
+            }
             this.money += money;
             return true;
         }
 
-        public bool withdrawMoney(decimal money)
+        public virtual bool withdrawMoney(decimal money)
         {
             if(this.money >= money)
             {

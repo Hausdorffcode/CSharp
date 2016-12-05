@@ -7,9 +7,9 @@ using System.Collections;
 
 namespace Bank
 {
-    class ATM
+    public class ATM
     {
-        Bank bank;
+        private Bank bank;
 
         public ATM(Bank bank)
         {
@@ -44,12 +44,21 @@ namespace Bank
             switch (op)
             {
                 case "1":
-                    Show("balance: " + account.getMoney());
+                    Show("balance: " + account.Money);
                     break;
                 case "2":
                     Show("please enter your money you want to save");
                     decimal money2 = decimal.Parse(GetInput());
-                    if (account.saveMoney(money2))
+                    bool isOk = false;
+                    try
+                    {
+                        isOk = account.saveMoney(money2);
+                    }
+                    catch(BadCashException e)  //捕获异常
+                    {
+                        Console.WriteLine("发生异常：{0}", e.Message);
+                    }
+                    if (isOk)
                     {
                         Show("ok");
                     }
@@ -57,20 +66,42 @@ namespace Bank
                     {
                         Show("error");
                     }
-                    Show("balance: " + account.getMoney());
+                    Show("balance: " + account.Money);
                     break;
                 case "3":
                     Show("please enter the money you want to withdraw");
                     decimal money3 = decimal.Parse(GetInput());
-                    if (account.withdrawMoney(money3))
+                    if (account is CreditAccount)
                     {
-                        Show("ok");
+                        if ((account as CreditAccount).withdrawMoney(money3))
+                        {
+                            Show("ok");
+                            if(money3 > 500)
+                            {
+                                BigMoneyFetched(this, new BigMoneyArgs(account, money3)); //触发/调用事件
+                            }
+                        }
+                        else
+                        {
+                            Show("you don't have enough money");
+                        }
                     }
                     else
                     {
-                        Show("you don't have enough money");
+                        if (account.withdrawMoney(money3))
+                        {
+                            Show("ok");
+                            if (money3 > 500)
+                            {
+                                BigMoneyFetched(this, new BigMoneyArgs(account, money3)); //触发/调用事件
+                            }
+                        }
+                        else
+                        {
+                            Show("you don't have enough money");
+                        }
                     }
-                    Show("balance: " + account.getMoney());
+                    Show("balance: " + account.Money);
                     break;
                 default:
                     Show("your enter is invalid");
@@ -78,5 +109,9 @@ namespace Bank
             }
 
         }
+
+        public event BigMoneyEventHandler BigMoneyFetched; //声明事件
+
+
     }
 }
