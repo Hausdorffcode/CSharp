@@ -1,0 +1,6 @@
+C:\Users\huangqiming\Documents\GitHub\CSharp\propertyAndIndexer\propertyAndIndexer\bin\Debug\propertyAndIndexer.exe.config
+C:\Users\huangqiming\Documents\GitHub\CSharp\propertyAndIndexer\propertyAndIndexer\bin\Debug\propertyAndIndexer.exe
+C:\Users\huangqiming\Documents\GitHub\CSharp\propertyAndIndexer\propertyAndIndexer\bin\Debug\propertyAndIndexer.pdb
+C:\Users\huangqiming\Documents\GitHub\CSharp\propertyAndIndexer\propertyAndIndexer\obj\Debug\propertyAndIndexer.csprojResolveAssemblyReference.cache
+C:\Users\huangqiming\Documents\GitHub\CSharp\propertyAndIndexer\propertyAndIndexer\obj\Debug\propertyAndIndexer.exe
+C:\Users\huangqiming\Documents\GitHub\CSharp\propertyAndIndexer\propertyAndIndexer\obj\Debug\propertyAndIndexer.pdb
