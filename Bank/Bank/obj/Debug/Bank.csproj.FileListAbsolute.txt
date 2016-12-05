@@ -1,0 +1,6 @@
+C:\Users\huangqiming\Documents\GitHub\CSharp\Bank\Bank\bin\Debug\Bank.exe.config
+C:\Users\huangqiming\Documents\GitHub\CSharp\Bank\Bank\bin\Debug\Bank.exe
+C:\Users\huangqiming\Documents\GitHub\CSharp\Bank\Bank\bin\Debug\Bank.pdb
+C:\Users\huangqiming\Documents\GitHub\CSharp\Bank\Bank\obj\Debug\Bank.csprojResolveAssemblyReference.cache
+C:\Users\huangqiming\Documents\GitHub\CSharp\Bank\Bank\obj\Debug\Bank.exe
+C:\Users\huangqiming\Documents\GitHub\CSharp\Bank\Bank\obj\Debug\Bank.pdb
