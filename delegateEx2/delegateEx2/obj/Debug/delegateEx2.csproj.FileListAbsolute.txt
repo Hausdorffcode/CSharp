@@ -1,0 +1,6 @@
+C:\Users\huangqiming\Documents\GitHub\CSharp\delegateEx2\delegateEx2\bin\Debug\delegateEx2.exe.config
+C:\Users\huangqiming\Documents\GitHub\CSharp\delegateEx2\delegateEx2\bin\Debug\delegateEx2.exe
+C:\Users\huangqiming\Documents\GitHub\CSharp\delegateEx2\delegateEx2\bin\Debug\delegateEx2.pdb
+C:\Users\huangqiming\Documents\GitHub\CSharp\delegateEx2\delegateEx2\obj\Debug\delegateEx2.csprojResolveAssemblyReference.cache
+C:\Users\huangqiming\Documents\GitHub\CSharp\delegateEx2\delegateEx2\obj\Debug\delegateEx2.exe
+C:\Users\huangqiming\Documents\GitHub\CSharp\delegateEx2\delegateEx2\obj\Debug\delegateEx2.pdb

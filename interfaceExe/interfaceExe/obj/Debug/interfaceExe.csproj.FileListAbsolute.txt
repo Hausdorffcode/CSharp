@@ -1,0 +1,6 @@
+C:\Users\huangqiming\Documents\GitHub\CSharp\interfaceExe\interfaceExe\bin\Debug\interfaceExe.exe.config
+C:\Users\huangqiming\Documents\GitHub\CSharp\interfaceExe\interfaceExe\bin\Debug\interfaceExe.exe
+C:\Users\huangqiming\Documents\GitHub\CSharp\interfaceExe\interfaceExe\bin\Debug\interfaceExe.pdb
+C:\Users\huangqiming\Documents\GitHub\CSharp\interfaceExe\interfaceExe\obj\Debug\interfaceExe.csprojResolveAssemblyReference.cache
+C:\Users\huangqiming\Documents\GitHub\CSharp\interfaceExe\interfaceExe\obj\Debug\interfaceExe.exe
+C:\Users\huangqiming\Documents\GitHub\CSharp\interfaceExe\interfaceExe\obj\Debug\interfaceExe.pdb

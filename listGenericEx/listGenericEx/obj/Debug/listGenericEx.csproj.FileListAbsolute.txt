@@ -1,0 +1,6 @@
+C:\Users\huangqiming\Documents\GitHub\CSharp\listGenericEx\listGenericEx\bin\Debug\listGenericEx.exe.config
+C:\Users\huangqiming\Documents\GitHub\CSharp\listGenericEx\listGenericEx\bin\Debug\listGenericEx.exe
+C:\Users\huangqiming\Documents\GitHub\CSharp\listGenericEx\listGenericEx\bin\Debug\listGenericEx.pdb
+C:\Users\huangqiming\Documents\GitHub\CSharp\listGenericEx\listGenericEx\obj\Debug\listGenericEx.csprojResolveAssemblyReference.cache
+C:\Users\huangqiming\Documents\GitHub\CSharp\listGenericEx\listGenericEx\obj\Debug\listGenericEx.exe
+C:\Users\huangqiming\Documents\GitHub\CSharp\listGenericEx\listGenericEx\obj\Debug\listGenericEx.pdb

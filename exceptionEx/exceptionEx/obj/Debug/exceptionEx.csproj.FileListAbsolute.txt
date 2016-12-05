@@ -1,0 +1,6 @@
+C:\Users\huangqiming\Documents\GitHub\CSharp\exceptionEx\exceptionEx\bin\Debug\exceptionEx.exe.config
+C:\Users\huangqiming\Documents\GitHub\CSharp\exceptionEx\exceptionEx\bin\Debug\exceptionEx.exe
+C:\Users\huangqiming\Documents\GitHub\CSharp\exceptionEx\exceptionEx\bin\Debug\exceptionEx.pdb
+C:\Users\huangqiming\Documents\GitHub\CSharp\exceptionEx\exceptionEx\obj\Debug\exceptionEx.csprojResolveAssemblyReference.cache
+C:\Users\huangqiming\Documents\GitHub\CSharp\exceptionEx\exceptionEx\obj\Debug\exceptionEx.exe
+C:\Users\huangqiming\Documents\GitHub\CSharp\exceptionEx\exceptionEx\obj\Debug\exceptionEx.pdb

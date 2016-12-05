@@ -1,0 +1,6 @@
+C:\Users\huangqiming\Documents\GitHub\CSharp\operatorOverrideEx2\operatorOverrideEx2\bin\Debug\operatorOverrideEx2.exe.config
+C:\Users\huangqiming\Documents\GitHub\CSharp\operatorOverrideEx2\operatorOverrideEx2\bin\Debug\operatorOverrideEx2.exe
+C:\Users\huangqiming\Documents\GitHub\CSharp\operatorOverrideEx2\operatorOverrideEx2\bin\Debug\operatorOverrideEx2.pdb
+C:\Users\huangqiming\Documents\GitHub\CSharp\operatorOverrideEx2\operatorOverrideEx2\obj\Debug\operatorOverrideEx2.csprojResolveAssemblyReference.cache
+C:\Users\huangqiming\Documents\GitHub\CSharp\operatorOverrideEx2\operatorOverrideEx2\obj\Debug\operatorOverrideEx2.exe
+C:\Users\huangqiming\Documents\GitHub\CSharp\operatorOverrideEx2\operatorOverrideEx2\obj\Debug\operatorOverrideEx2.pdb

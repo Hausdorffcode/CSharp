@@ -1,0 +1,1 @@
+C:\Users\huangqiming\Documents\GitHub\CSharp\MethodDelegateLamda\MethodDelegateLamda\bin\Debug\MethodDelegateLamda.exe.config

@@ -1,0 +1,6 @@
+C:\Users\huangqiming\Documents\GitHub\CSharp\arraySortEx\arraySortEx\bin\Debug\arraySortEx.exe.config
+C:\Users\huangqiming\Documents\GitHub\CSharp\arraySortEx\arraySortEx\bin\Debug\arraySortEx.exe
+C:\Users\huangqiming\Documents\GitHub\CSharp\arraySortEx\arraySortEx\bin\Debug\arraySortEx.pdb
+C:\Users\huangqiming\Documents\GitHub\CSharp\arraySortEx\arraySortEx\obj\Debug\arraySortEx.csprojResolveAssemblyReference.cache
+C:\Users\huangqiming\Documents\GitHub\CSharp\arraySortEx\arraySortEx\obj\Debug\arraySortEx.exe
+C:\Users\huangqiming\Documents\GitHub\CSharp\arraySortEx\arraySortEx\obj\Debug\arraySortEx.pdb

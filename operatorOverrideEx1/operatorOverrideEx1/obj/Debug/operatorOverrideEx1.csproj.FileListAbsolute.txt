@@ -1,0 +1,1 @@
+C:\Users\huangqiming\Documents\GitHub\CSharp\operatorOverrideEx1\operatorOverrideEx1\bin\Debug\operatorOverrideEx1.exe.config
