@@ -1,0 +1,6 @@
+C:\Users\huangqiming\Documents\GitHub\CSharp\SerializationIO\SerializationIO\bin\Debug\SerializationIO.exe.config
+C:\Users\huangqiming\Documents\GitHub\CSharp\SerializationIO\SerializationIO\bin\Debug\SerializationIO.exe
+C:\Users\huangqiming\Documents\GitHub\CSharp\SerializationIO\SerializationIO\bin\Debug\SerializationIO.pdb
+C:\Users\huangqiming\Documents\GitHub\CSharp\SerializationIO\SerializationIO\obj\Debug\SerializationIO.csprojResolveAssemblyReference.cache
+C:\Users\huangqiming\Documents\GitHub\CSharp\SerializationIO\SerializationIO\obj\Debug\SerializationIO.exe
+C:\Users\huangqiming\Documents\GitHub\CSharp\SerializationIO\SerializationIO\obj\Debug\SerializationIO.pdb

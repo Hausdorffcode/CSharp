@@ -1,0 +1,6 @@
+C:\Users\huangqiming\Documents\GitHub\CSharp\loggerIO\loggerIO\bin\Debug\loggerIO.exe.config
+C:\Users\huangqiming\Documents\GitHub\CSharp\loggerIO\loggerIO\bin\Debug\loggerIO.exe
+C:\Users\huangqiming\Documents\GitHub\CSharp\loggerIO\loggerIO\bin\Debug\loggerIO.pdb
+C:\Users\huangqiming\Documents\GitHub\CSharp\loggerIO\loggerIO\obj\Debug\loggerIO.csprojResolveAssemblyReference.cache
+C:\Users\huangqiming\Documents\GitHub\CSharp\loggerIO\loggerIO\obj\Debug\loggerIO.exe
+C:\Users\huangqiming\Documents\GitHub\CSharp\loggerIO\loggerIO\obj\Debug\loggerIO.pdb

@@ -1,0 +1,6 @@
+C:\Users\huangqiming\Documents\GitHub\CSharp\listAllFiles\listAllFiles\bin\Debug\listAllFiles.exe.config
+C:\Users\huangqiming\Documents\GitHub\CSharp\listAllFiles\listAllFiles\bin\Debug\listAllFiles.exe
+C:\Users\huangqiming\Documents\GitHub\CSharp\listAllFiles\listAllFiles\bin\Debug\listAllFiles.pdb
+C:\Users\huangqiming\Documents\GitHub\CSharp\listAllFiles\listAllFiles\obj\Debug\listAllFiles.csprojResolveAssemblyReference.cache
+C:\Users\huangqiming\Documents\GitHub\CSharp\listAllFiles\listAllFiles\obj\Debug\listAllFiles.exe
+C:\Users\huangqiming\Documents\GitHub\CSharp\listAllFiles\listAllFiles\obj\Debug\listAllFiles.pdb

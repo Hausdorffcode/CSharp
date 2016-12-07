@@ -1,0 +1,63 @@
+1: 	using System;
+2: 	using System.Collections.Generic;
+3: 	using System.Linq;
+4: 	using System.Text;
+5: 	using System.Threading.Tasks;
+6: 	using System.IO;
+7: 	
+8: 	namespace CopyFileAddLineNumberIO
+9: 	{
+10: 	    public class CopyFileAddLineNumber  
+11: 	    {
+12: 	        public static void Main(string[] args)
+13: 	        {
+14: 	            string infname = @"C:\Users\huangqiming\Documents\GitHub\CSharp\CopyFileAddLineNumberIO\CopyFileAddLineNumberIO\Program.cs";  
+15: 	            string outfname = @"C:\Users\huangqiming\Documents\GitHub\CSharp\CopyFileAddLineNumberIO\CopyFileAddLineNumberIO\CopyFileAddLineNumber.txt";  
+16: 	            if (args.Length >= 1) infname = args[0];
+17: 	            if (args.Length >= 2) outfname = args[1];
+18: 	
+19: 	            try
+20: 	            {
+21: 	                FileStream fin = new FileStream(
+22: 	                    infname, FileMode.Open, FileAccess.Read);    
+23: 	                FileStream fout = new FileStream(
+24: 	                    outfname, FileMode.Create, FileAccess.Write);
+25: 	
+26: 	                StreamReader brin = new StreamReader(
+27: 	                    fin, System.Text.Encoding.Default);    
+28: 	                StreamWriter brout = new StreamWriter(
+29: 	                    fout, System.Text.Encoding.Default);    
+30: 	
+31: 	                int cnt = 0; 
+32: 	                string s = brin.ReadLine();     
+33: 	                while (s != null)
+34: 	                {
+35: 	                    cnt++;
+36: 	                    s = deleteComments(s);                        
+37: 	                    brout.WriteLine(cnt + ": \t" + s);           
+38: 	                    Console.WriteLine(cnt + ": \t" + s);     
+39: 	                    s = brin.ReadLine();                      
+40: 	                }
+41: 	                brin.Close();               
+42: 	                brout.Close();
+43: 	            }
+44: 	            catch (FileNotFoundException)
+45: 	            {
+46: 	                Console.WriteLine("File not found!");
+47: 	            }
+48: 	            catch (IOException e2)
+49: 	            {
+50: 	                Console.WriteLine(e2);
+51: 	            }
+52: 	        }
+53: 	
+54: 	        static string deleteComments(string s) 
+55: 	        {
+56: 	            if (s == null) return s;
+57: 	            int pos = s.IndexOf("
+58: 	            if (pos < 0) return s;
+59: 	            return s.Substring(0, pos);   
+60: 	        }
+61: 	    }
+62: 	
+63: 	}

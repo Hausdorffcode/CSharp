@@ -1,0 +1,9 @@
+C:\Users\huangqiming\Documents\GitHub\CSharp\DrawTree\DrawTree\bin\Debug\DrawTree.exe.config
+C:\Users\huangqiming\Documents\GitHub\CSharp\DrawTree\DrawTree\bin\Debug\DrawTree.exe
+C:\Users\huangqiming\Documents\GitHub\CSharp\DrawTree\DrawTree\bin\Debug\DrawTree.pdb
+C:\Users\huangqiming\Documents\GitHub\CSharp\DrawTree\DrawTree\obj\Debug\DrawTree.csprojResolveAssemblyReference.cache
+C:\Users\huangqiming\Documents\GitHub\CSharp\DrawTree\DrawTree\obj\Debug\DrawTree.Properties.Resources.resources
+C:\Users\huangqiming\Documents\GitHub\CSharp\DrawTree\DrawTree\obj\Debug\DrawTree.csproj.GenerateResource.Cache
+C:\Users\huangqiming\Documents\GitHub\CSharp\DrawTree\DrawTree\obj\Debug\DrawTree.exe
+C:\Users\huangqiming\Documents\GitHub\CSharp\DrawTree\DrawTree\obj\Debug\DrawTree.pdb
+C:\Users\huangqiming\Documents\GitHub\CSharp\DrawTree\DrawTree\obj\Debug\DrawTree.Form1.resources
