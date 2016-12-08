@@ -1,0 +1,7 @@
+C:\Users\huangqiming\Documents\GitHub\CSharp\My_Explorer_src\bin\Release\My Exploryer.exe
+C:\Users\huangqiming\Documents\GitHub\CSharp\My_Explorer_src\bin\Release\My Exploryer.pdb
+C:\Users\huangqiming\Documents\GitHub\CSharp\My_Explorer_src\obj\Release\My Explorer.csprojResolveAssemblyReference.cache
+C:\Users\huangqiming\Documents\GitHub\CSharp\My_Explorer_src\obj\Release\My_Explorer.Explorer.resources
+C:\Users\huangqiming\Documents\GitHub\CSharp\My_Explorer_src\obj\Release\My Explorer.csproj.GenerateResource.Cache
+C:\Users\huangqiming\Documents\GitHub\CSharp\My_Explorer_src\obj\Release\My Exploryer.exe
+C:\Users\huangqiming\Documents\GitHub\CSharp\My_Explorer_src\obj\Release\My Exploryer.pdb
