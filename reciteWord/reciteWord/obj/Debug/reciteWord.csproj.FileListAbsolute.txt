@@ -1,0 +1,9 @@
+C:\Users\huangqiming\Documents\GitHub\CSharp\reciteWord\reciteWord\bin\Debug\reciteWord.exe.config
+C:\Users\huangqiming\Documents\GitHub\CSharp\reciteWord\reciteWord\bin\Debug\reciteWord.exe
+C:\Users\huangqiming\Documents\GitHub\CSharp\reciteWord\reciteWord\bin\Debug\reciteWord.pdb
+C:\Users\huangqiming\Documents\GitHub\CSharp\reciteWord\reciteWord\obj\Debug\reciteWord.csprojResolveAssemblyReference.cache
+C:\Users\huangqiming\Documents\GitHub\CSharp\reciteWord\reciteWord\obj\Debug\reciteWord.Form1.resources
+C:\Users\huangqiming\Documents\GitHub\CSharp\reciteWord\reciteWord\obj\Debug\reciteWord.Properties.Resources.resources
+C:\Users\huangqiming\Documents\GitHub\CSharp\reciteWord\reciteWord\obj\Debug\reciteWord.csproj.GenerateResource.Cache
+C:\Users\huangqiming\Documents\GitHub\CSharp\reciteWord\reciteWord\obj\Debug\reciteWord.exe
+C:\Users\huangqiming\Documents\GitHub\CSharp\reciteWord\reciteWord\obj\Debug\reciteWord.pdb
