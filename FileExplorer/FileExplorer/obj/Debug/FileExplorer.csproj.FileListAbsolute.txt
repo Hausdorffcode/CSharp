@@ -1,0 +1,1 @@
+C:\Users\huangqiming\Documents\GitHub\CSharp\FileExplorer\FileExplorer\bin\Debug\FileExplorer.exe.config

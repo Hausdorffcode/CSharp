@@ -1,0 +1,9 @@
+C:\Users\huangqiming\Documents\GitHub\CSharp\ControlsEx\ControlsEx\bin\Debug\ControlsEx.exe.config
+C:\Users\huangqiming\Documents\GitHub\CSharp\ControlsEx\ControlsEx\bin\Debug\ControlsEx.exe
+C:\Users\huangqiming\Documents\GitHub\CSharp\ControlsEx\ControlsEx\bin\Debug\ControlsEx.pdb
+C:\Users\huangqiming\Documents\GitHub\CSharp\ControlsEx\ControlsEx\obj\Debug\ControlsEx.csprojResolveAssemblyReference.cache
+C:\Users\huangqiming\Documents\GitHub\CSharp\ControlsEx\ControlsEx\obj\Debug\ControlsEx.Form1.resources
+C:\Users\huangqiming\Documents\GitHub\CSharp\ControlsEx\ControlsEx\obj\Debug\ControlsEx.Properties.Resources.resources
+C:\Users\huangqiming\Documents\GitHub\CSharp\ControlsEx\ControlsEx\obj\Debug\ControlsEx.csproj.GenerateResource.Cache
+C:\Users\huangqiming\Documents\GitHub\CSharp\ControlsEx\ControlsEx\obj\Debug\ControlsEx.exe
+C:\Users\huangqiming\Documents\GitHub\CSharp\ControlsEx\ControlsEx\obj\Debug\ControlsEx.pdb
